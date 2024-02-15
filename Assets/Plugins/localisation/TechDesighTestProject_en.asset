@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TechDesighTestProject_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bb0f4380567aae94787dc2d9c6069993, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5660925025815625731
+  m_TableData:
+  - m_Id: 2234215739392
+    m_Localized: Next scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3043389255680
+    m_Localized: Player attack animation on click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3769423278080
+    m_Localized: Player run animation on click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4024210468864
+    m_Localized: Player idle loop animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4223385382912
+    m_Localized: Player hurt animation on click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4444404232192
+    m_Localized: Player jump animation on click
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5660925025815625731
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00b062c117000000

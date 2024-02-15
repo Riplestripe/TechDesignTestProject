@@ -5,8 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class next_scene_button : MonoBehaviour
 {
-    public void next_scene()
+    private void OnMouseDown()
     {
         SceneManager.LoadScene("second_scene");
+
     }
 }
