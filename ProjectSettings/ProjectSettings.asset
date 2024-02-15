@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: My project (11)
+  companyName: Sokolov Ilia
+  productName: TechDesignTestProject
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -668,7 +668,7 @@ PlayerSettings:
   cloudProjectId: 2078a29e-adc0-472a-bfa0-68b35b068fca
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (11)
+  projectName: TechDesignTestProject
   organizationId: riplestripe
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
